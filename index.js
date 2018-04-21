@@ -1,6 +1,6 @@
 // Add your doToElementsInArray() function here:
 function doToElementsInArray(evens,callback){
-  evens.forEach(arr);
+  evens.forEach(callback);
 }
 
 // Add your changeCompletely() function here:
