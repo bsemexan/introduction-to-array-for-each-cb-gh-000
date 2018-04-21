@@ -1,5 +1,5 @@
 // Add your doToElementsInArray() function here:
-function doToElementsInArray(arr){
+function doToElementsInArray(evens,callback){
   evens.forEach(arr);
 }
 
