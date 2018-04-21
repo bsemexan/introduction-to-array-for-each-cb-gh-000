@@ -4,6 +4,6 @@ function doToElementsInArray(evens,callback){
 }
 
 // Add your changeCompletely() function here:
-function changeCompletely(arr, callback){
+function changeCompletely(elem, index, arr){
   arr.forEach(callback)
 }
